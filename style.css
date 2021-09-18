@@ -1,0 +1,21 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5em;
+}
+
+article {
+  padding: 1rem;
+}
+
+nav {
+  position: sticky;
+  top: 0;
+  background: gray;
+  height: 4rem;
+  padding-top: 0.5rem;
+  padding-left: 1rem;
+}
+
+a {
+  color: blue;
+}
